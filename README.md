@@ -30,30 +30,30 @@ A lightweight Ubuntu Linux virtual machine environment running in GitHub Codespa
     •    Run GUI apps inside the VNC desktop
     •    Connect using any VNC client or your browser
 
-⸻
+---
 
 Known Limitations ⚠️
     •    No GPU acceleration (yet!)
     •    Input may lag; click inside VNC window for focus
     •    Best for light GUI tasks, not gaming
 
-⸻
+---
 
 Troubleshooting 🩹
     •    Gray VNC screen? Run DISPLAY=:1 terminal & OR scroll down and see the task bar.
     •    GUI apps error? Use terminal or simpler GUI tools
     •    For popups, install zenity or xmessage
 
-⸻
+---
 
 Contributing & Feedback 
 
 Feel free to open issues or PRs to make this VM fluffier and better!
 
-⸻
+---
 
 License
 
 MIT License — Share the code
 
-⸻
+
