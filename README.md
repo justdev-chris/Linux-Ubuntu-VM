@@ -20,8 +20,8 @@ A lightweight Ubuntu Linux virtual machine environment running in GitHub Codespa
 ```bash
 ./setup-gui.sh
 ```
-4. Access the desktop through the provided VNC URL or via the noVNC web client on port 6080  
-5. Use the terminal inside the VM or launch GUI apps  
+3. Access the desktop through the provided VNC URL or via the noVNC web client on port 6080  
+4. Use the terminal inside the VM or launch GUI apps  
 5. Stop the VM by killing the server process or closing Codespaces  
 
 ---
